@@ -17,7 +17,7 @@
 <img src="https://github.com/XIAOYAO9602/homefinder/blob/master/homepage.png" alt="alt text" width="750" height="350"><br />
 **Tag Function**
 
-<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/tags.png" alt="alt text" width="750" height="150">
+<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/tags.png" alt="alt text" width="750" height="100">
 
 **Sort Function**
 
@@ -25,7 +25,7 @@
 
 **Search Function**
 
-<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/search.png" alt="alt text" width="750" height="150">
+<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/search.png" alt="alt text" width="750" height="350">
 
 **Signin**
 
