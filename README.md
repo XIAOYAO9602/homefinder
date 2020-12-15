@@ -14,22 +14,22 @@
 **Structure of Website:**
 ----------------------------------------------------------------------------------------------------------------------------------------
 **Homapage**<br />
-<img src="https://github.com/XIAOYAO9602/webprojectpciture/blob/main/project3/homepage.png" alt="alt text" width="750" height="350"><br />
-**Video**
+<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/homepage.png" alt="alt text" width="750" height="350"><br />
+**Tag Function**
 
-<img src="https://github.com/XIAOYAO9602/webprojectpciture/blob/main/project3/video.png" alt="alt text" width="750" height="350">
+<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/tags.png" alt="alt text" width="750" height="350">
 
-**Comments**
+**Sort Function**
 
-<img src="https://github.com/XIAOYAO9602/webprojectpciture/blob/main/project3/comment.png" alt="alt text" width="750" height="350">
+<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/sort.png" alt="alt text" width="750" height="350">
 
-**Register**
+**Search Function**
 
-<img src="https://github.com/XIAOYAO9602/webprojectpciture/blob/main/project3/register.png" alt="alt text" width="750" height="350">
+<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/search.pngg" alt="alt text" width="750" height="350">
 
 **Signin**
 
-<img src="https://github.com/XIAOYAO9602/webprojectpciture/blob/main/project3/signin.png" alt="alt text" width="750" height="350">
+<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/login.png" alt="alt text" width="750" height="350">
 
 **Instruction to build:**
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
