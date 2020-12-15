@@ -3,7 +3,7 @@
 **Final Project** for CS5610 Web Development at Northeastern University <br />
 **Url** to class: https://johnguerra.co/classes/webDevelopment_fall_2020/<br />
 **Authors:** Yao Xiao<br />
-**Objective:**  Building a webiste  where users can find their home.They can sort and property by price, search the neighbor, click the tags and popo up the properties that are classified by the tags  :rainbow:.<br />
+**Objective:**  Building a webiste  where users can find their home.They can sort and property by price, search the neighbor, click the tags and popo up the properties that are classified by the tags  :house:.<br />
 **Used Technologies:** Sublime text, eslint and Js Prettier 
 **Used Programming Languages:** Java Script, CSS and JSX <br />
 **Used Running Environment:** Node.js <br />
