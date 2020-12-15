@@ -14,7 +14,7 @@
 **Structure of Website:**
 ----------------------------------------------------------------------------------------------------------------------------------------
 **Homapage**<br />
-<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/homepage.png" alt="alt text" width="850" height="350"><br />
+<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/homepage.png" alt="alt text" width="850" height="450"><br />
 **Tag Function**
 
 <img src="https://github.com/XIAOYAO9602/homefinder/blob/master/tags.png" alt="alt text" width="850" height="50">
