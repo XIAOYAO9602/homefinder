@@ -1,4 +1,4 @@
-#DreamHome-Home FINDER :rainbow:
+#DreamHome-Home FINDER :cherries:
 
 **Final Project** for CS5610 Web Development at Northeastern University <br />
 **Url** to class: https://johnguerra.co/classes/webDevelopment_fall_2020/<br />
