@@ -14,22 +14,22 @@
 **Structure of Website:**
 ----------------------------------------------------------------------------------------------------------------------------------------
 **Homapage**<br />
-<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/homepage.png" alt="alt text" width="750" height="350"><br />
+<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/homepage.png" alt="alt text" width="850" height="350"><br />
 **Tag Function**
 
-<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/tags.png" alt="alt text" width="750" height="100">
+<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/tags.png" alt="alt text" width="850" height="50">
 
 **Sort Function**
 
-<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/sort.png" alt="alt text" width="750" height="150">
+<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/sort.png" alt="alt text" width="850" height="150">
 
 **Search Function**
 
-<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/search.png" alt="alt text" width="750" height="350">
+<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/search.png" alt="alt text" width="850" height="350">
 
 **Signin**
 
-<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/login.png" alt="alt text" width="750" height="350">
+<img src="https://github.com/XIAOYAO9602/homefinder/blob/master/login.png" alt="alt text" width="850" height="350">
 
 **Instruction to build:**
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
