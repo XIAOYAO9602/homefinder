@@ -8,6 +8,8 @@ import {
 import { CaretRightOutlined } from '@ant-design/icons';
 import './styles/antStyle.less';
 
+{*/ It was a good idea to separate the components into different pages of code! Makes it very organized and easy to read. */}
+
 const { Panel } = Collapse;
 
 function TagSelector({ name, addTag, init }) {
