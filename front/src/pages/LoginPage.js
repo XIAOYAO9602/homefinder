@@ -2,6 +2,8 @@ import React, {useState} from 'react';
 import "./LoginPage.css";
 import { Button, Form, Grid, Message, Segment } from 'semantic-ui-react'
 import { Link, useHistory } from "react-router-dom";
+
+{/* I love the way your login and sign in pages look! Very different than everyone elses and looks so professional!!*/}
 export default function LoginPage({setUser}) {
   const history = useHistory();
   const [username, setUsername] = useState('');
