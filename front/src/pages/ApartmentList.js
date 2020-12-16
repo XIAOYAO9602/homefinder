@@ -3,6 +3,9 @@ import './style/apt.css';
 import { Card, Image } from 'semantic-ui-react'
 import { Link } from 'react-router-dom';
 export default function ApartmentList({ apts }) {
+  
+  {/* It's interesting to see how you make the links!! I wanted to do something like that in my project but wasn't sure how, but you did it so simply using the apt._id!!
+  This page's code is also very clean! */}
 
   return (
     <div className="apt-container">
