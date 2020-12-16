@@ -5,6 +5,9 @@ import './style/home.css';
 import { Select, Search, Pagination, Button } from 'semantic-ui-react'
 import R from '../utils';
 
+{*/ Hi! Overall, I love the look of your website!! Very clean! The tags are very helpful and well selected, as well as a clever idea!
+I would just say to make sure your posts are all the same size, because right now it's a bit confusing.*/}
+ 
 export default function Home() {
   const [apts, setApts] = useState([]);
   const [sort, setSort] = useState('');
